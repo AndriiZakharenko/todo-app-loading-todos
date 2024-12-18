@@ -9,7 +9,7 @@ The task consists of 3 part:
 
 In this 1st part:
 
-- implemented todos loading, error messages and filtering by status
+- implemented todos loading, error messages and filtering by status using external API
 
 ### Stack
 
@@ -19,6 +19,8 @@ In this 1st part:
 - Typescript
 - React
 - ReactDOM
+- Fetch
+- API ([Mate](https://mate-academy.github.io/fe-students-api/))
 
 ### Tools
 
