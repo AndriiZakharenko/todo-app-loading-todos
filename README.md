@@ -3,7 +3,7 @@
 ## 🎮 About the Project
 This is the first part of the **Todo App** project, where the functionality to **load todos** is implemented. It includes the ability to fetch data from an external API, handle loading and error messages, and filter the todos by their status. The project consists of three parts:
 
-1. [Load Todos](https://github.com/AndriiZakharenko/todo-app-loading-todos) - Fetches and displays todos from the API.
+1. **Load Todos** - Fetches and displays todos from the API.
 2. [Add and Delete](https://github.com/AndriiZakharenko/todo-app-add-and-delete) - Adds and deletes todos.
 3. [Toggle and Rename](https://github.com/AndriiZakharenko/todo-app-with-api) - Allows toggling and renaming todos.
 
